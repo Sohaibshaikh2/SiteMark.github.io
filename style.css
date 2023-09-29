@@ -18,6 +18,10 @@ p{
   }
 
 
+  .logo{
+    height: 10%;
+    width: 15%;
+  }
   .navbar-brand{
     color: #cecece;
     font-size: 2rem;
